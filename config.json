@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "mini-blog-api",
+      "title": "Mini Blog API",
+      "description": "Build a simple blog API with FastAPI, including posts, JSON responses, and validation.",
+      "path": "assignments/mini-blog-api",
+      "dueDate": "2026-09-08",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
